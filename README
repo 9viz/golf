@@ -1,0 +1,12 @@
+golfs in various languages
+
+bs - binary search
+
+i dont think i can improve python impl.
+
+bs.mksh 128
+bs.rkt  134
+bs.py   134
+
+
+all of the golfs are licensed under BSD 2-Clause "Simplified License"
